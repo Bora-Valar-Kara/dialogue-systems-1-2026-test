@@ -11,7 +11,7 @@
 3. Create a **Resource group** (you can use search field):
    - Subscription: *Azure for students*
    - Resource group: *RG-GU-1* (or any name)
-   - Region: *(Europe) North Europe*
+   - Region: *(Europe) North Europe* (This step might be problematic, we suggest you can try another regions for now. Will be updated...)
 
 4. Create a **Speech service** (you can use search field):
    - Name: *SpeechService1* (or any name)
